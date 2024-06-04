@@ -16,5 +16,7 @@ Joseph Cotterell
 # Deployed link: https://to-do-mddgkneuw-josephcotterells-projects.vercel.app/
 
 # Contact
-github josephcotterell
-Email josephcotterell@hotmail.co.uk
+# Github 
+josephcotterell
+# Email 
+josephcotterell@hotmail.co.uk
